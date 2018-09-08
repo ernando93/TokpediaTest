@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TokopediaTest
 //
-//  Created by WE+ on 9/5/18.
+//  Created by Ernando on 9/7/18.
 //  Copyright © 2018 HappyCoding. All rights reserved.
 //
 

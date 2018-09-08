@@ -1,0 +1,6 @@
+framework module Pods_TokopediaTest {
+  umbrella header "Pods-TokopediaTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
